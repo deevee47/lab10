@@ -1,0 +1,9 @@
+{
+  "name": "Silver",
+  "description": "A valuable silver token used in the Awesome Game.",
+  "image": "ipfs://bafybeidsvgd7adimo4tlvzonlvd6eewdmk4766u2psqn57jhb3ifcaylle/silver.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Currency" },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}

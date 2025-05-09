@@ -1,0 +1,9 @@
+{
+  "name": "Shield",
+  "description": "A reliable shield for defense.",
+  "image": "ipfs://bafybeidsvgd7adimo4tlvzonlvd6eewdmk4766u2psqn57jhb3ifcaylle/shield.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Armor" },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}

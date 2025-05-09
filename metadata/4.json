@@ -1,0 +1,9 @@
+{
+  "name": "Crown",
+  "description": "A unique crown signifying royalty.",
+  "image": "ipfs://bafybeidsvgd7adimo4tlvzonlvd6eewdmk4766u2psqn57jhb3ifcaylle/crown.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Artifact" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}

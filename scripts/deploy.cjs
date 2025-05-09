@@ -5,10 +5,11 @@ async function main() {
   const awesomeGame = await AwesomeGame.deploy(); // deploy the contract
 
   await awesomeGame.waitForDeployment(); // replaces .deployed()
-  console.log(`Contract deployed to: ${awesomeGame.target}`); // use .target instead of .address
+  console.log(`Contract deployed to Target: ${awesomeGame.target}`); // use .target instead of .address
 }
 
 main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+

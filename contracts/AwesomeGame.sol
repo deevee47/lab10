@@ -10,7 +10,7 @@ contract AwesomeGame is ERC1155 {
     uint256 public constant SHIELD = 3;
     uint256 public constant CROWN = 4;
 
-    constructor() ERC1155("https://ipfs.io/ipfs/bafybeie63kkbx55uc6izhwmge7eymovpwz6af6lxc7ogrlyhoxvns4emsy.json") {
+    constructor() ERC1155("https://ipfs.io/ipfs/bafybeibb7tnrcs7ko4xg7sk4fbk5vicnblvktasflya6vjal26zdnxxh2u/{id}.json") {
         _mint(msg.sender, GOLD, 10 ** 18, "");
         _mint(msg.sender, SILVER, 10 ** 18, "");
         _mint(msg.sender, SWORD, 1000, "");

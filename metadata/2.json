@@ -1,0 +1,9 @@
+{
+  "name": "Sword",
+  "description": "A basic sword for battle.",
+  "image": "ipfs://bafybeidsvgd7adimo4tlvzonlvd6eewdmk4766u2psqn57jhb3ifcaylle/sword.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Weapon" },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}
